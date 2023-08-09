@@ -23,14 +23,12 @@ Bem-vindo ao **QUERO TRAMPO**, a plataforma de empregos onde você pode encontra
 
 ## 📝 Como Usar
 
-1. Faça um clone deste repositório:
+1. Faça um clone deste repositório:<br>
+[git clone https://github.com/YOMARCOS/login-react.git]
 
-
-git clone https://github.com/YOMARCOS/login-react.git
-
-2. Instale as dependências:
+2. Instale as dependências:<br>
 npm install
 
-3. Inicie o projeto
+3. Inicie o projeto: <br>
 npm start
 
