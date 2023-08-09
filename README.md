@@ -25,7 +25,7 @@ Bem-vindo ao **QUERO TRAMPO**, a plataforma de empregos onde você pode encontra
 
 1. Faça um clone deste repositório:
 
-```bash
+
 git clone https://github.com/YOMARCOS/login-react.git
 
 2. Instale as dependências:
