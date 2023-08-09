@@ -27,3 +27,10 @@ Bem-vindo ao **QUERO TRAMPO**, a plataforma de empregos onde você pode encontra
 
 ```bash
 git clone https://github.com/YOMARCOS/login-react.git
+
+2. Instale as dependências:
+npm install
+
+3. Inicie o projeto
+npm start
+
