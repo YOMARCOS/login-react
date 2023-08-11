@@ -28,7 +28,7 @@ class SignIn extends PureComponent {
                 </button>
                 <input type="text" className="form-input form-icon-lock" placeholder="Insira sua senha" />
               </div>
-              <a href="#" className="form-link">
+              <a href="" className="form-link">
                 Recuperar senha
               </a>
               <button type="button" className="btn-default btn-light">
